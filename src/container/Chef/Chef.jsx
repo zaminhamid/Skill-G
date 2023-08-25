@@ -11,7 +11,7 @@ const Chef = () => (
      
     </div>
     <div className="app__wrapper_info">
-      <SubHeading title="Team" />
+      <SubHeading title="Message From The Team" />
       <h1 className="headtext__cormorant">What we believe in</h1>
 
       <div className="app__chef-content">
@@ -24,7 +24,7 @@ const Chef = () => (
 
       <div className="app__chef-sign">
         <p>TEAM</p>
-        <p className="p__opensans"> Autul Dubey ,Zamin Hamid,Omkar Singh</p>
+        <p className="p__opensans"> Atul Dubey ,Zamin Hamid,Omkar Singh,Jharana Kunwar</p>
         
       </div>
     </div>

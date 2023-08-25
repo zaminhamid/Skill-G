@@ -1,0 +1,117 @@
+/* TextBox.css */
+/* Card.css */
+/* Card.css */
+/* Card.css */
+
+
+
+.app__heade {
+   
+    background-color: black !important;
+    backdrop-filter: blur(16px) saturate(180%);
+    opacity:0.9;
+
+
+}
+
+.app__header-h1 {
+    font-family: var(--font-base);
+    color: var(--color-golden) !important;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    line-height: 117px;
+    font-size: 80px; /* Adjust font size as needed */
+    margin: 0; /* Remove default margin to ensure consistent spacing */
+}
+
+.p__xam {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+   /* border: 1px solid rgba(255, 255, 255, 0.18);*/
+    /*border-radius: 10px;*/
+    padding: 20px;
+    margin: 20px;
+    /*background: rgba(0, 0, 0, 0.15) !important;*/
+    /*background: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 10px 40px 0 rgba(31, 38, 135, 0.25);*/
+    transition: background 0.3s, box-shadow 0.3s, border-color 0.3s;
+    border-radius: 16px;
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(5px);
+	-webkit-backdrop-filter: blur(5px);
+	border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.p__xam:hover {
+    background: rgba(255, 255, 255, 0.25) !important; /* Enhance hover effect */
+    box-shadow: 0 14px 60px 0 rgba(31, 38, 135, 0.5); /* Increase box shadow */
+    border-color: rgba(255, 255, 255, 0.35); /* Adjust border color */
+}
+
+.p__xam h1,
+.p__xam h4 {
+    margin: 0;
+    font-weight: 600; /* Maintain consistent font weight */
+}
+
+.p__xam p {
+    /* Add styles for paragraphs if needed */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 2000px) {
+    .app__heade-h1 {
+        font-size: 180px;
+        line-height: 210px;
+        
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .app__heade-h1 {
+        font-size: 90px;
+       
+    }
+}
+
+
+
+
+
+

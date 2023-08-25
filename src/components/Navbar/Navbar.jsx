@@ -10,9 +10,14 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-      <h1>Skill-G</h1>
+        <h1 >Skill-G</h1>
+        <h6 style={{ color: 'white' }}>Oddessy of the genius</h6>
+     
+
+   
         
       </div>
+      
       <ul className="app__navbar-links">
         <li className="p__opensans"><a href="#home">Home</a></li>
         <li className="p__opensans"><a href="#about">About</a></li>

@@ -61,18 +61,18 @@ const awards = [
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'A basic fundamental program for students to get started with robotics .',
+    subtitle: 'A basic fundamental program for students in all domians for class 6th to class 10th students.',
   },
   {
     imgUrl: images.award02,
-    title: 'Internship',
-    subtitle: 'We provide remote internship to the students who are curious about robotics .',
+    title: 'Techo-Enthusiast',
+    subtitle: 'A deep understanding of robotics for students from 10th class onwards .',
   },
  
  
   {
     imgUrl: images.award03,
-    title: 'Projects',
+    title: 'Summer Camp',
     subtitle: 'we provide realtime industry project experience to students  .',
   },
 ];

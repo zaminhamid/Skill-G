@@ -30,7 +30,7 @@ const Footer = () => (
         
         <div className="app__footer-links_icons">
         
-         <a href="https://www.instagram.com/byondbooks_1/" target="_blank" rel="noopener noreferrer">
+         <a href="https://www.instagram.com/skill_g__//" target="_blank" rel="noopener noreferrer">
         <FiInstagram />
       </a>
       

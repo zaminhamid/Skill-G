@@ -17,5 +17,5 @@ export {
   Header,
   Intro,
   Laurels,
-  SpecialMenu,
+ SpecialMenu,
 };

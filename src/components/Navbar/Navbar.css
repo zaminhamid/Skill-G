@@ -10,14 +10,18 @@
 
 .app__navbar-logo {
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
+    flex-direction:column;
+    align-items: flex-start;
 }
 
 .app__navbar-logo h1{
    
     color:white !important;
+     font-weight: bold!important;
+  	font-style: italic!important;
+  	  margin-bottom: 0.1rem!important;
    
+  
 }
 
 .app__navbar-links {

@@ -27,7 +27,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans"> <h3> An Nit Skkims Startup </h3> </p>
+        <p className="p__opensans"> <h3> An Nit Sikkim Startup </h3> </p>
        
       </div>
     </div>
