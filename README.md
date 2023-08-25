@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# SKILL-G OFFICAL PAGE From Components To Creations: The Robotic Odyssey 🌠 We Provide Online/Offline Robotic Courses,Robotic Kit And Much More We're A Visionary Force Driving The Future Of Learning Through A Unique Blend Of Online And Offline Experiences
+# SKILL-G : From Components To Creations: The Robotic Odyssey 🌠. We Provide Online/Offline Robotic Courses,Robotic Kit And Much More We're A Visionary Force Driving The Future Of Learning Through A Unique Blend Of Online And Offline Experiences
 
 
 =======
