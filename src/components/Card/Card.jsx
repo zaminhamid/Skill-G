@@ -67,11 +67,7 @@ const Card = ({ text }) => {
         </p>
         
         
-          <p className="p__xam" style={{ margin: '2rem 0' }}>
-          <h1 style={{  marginTop: '1rem' }}> Free Online Courses </h1>
-          <h4 style={{ color: 'black', marginTop: '1rem' }}> a ropotic oddddddddddddddddddddddddd </h4>
-        </p>
-        
+          
         
          
        
