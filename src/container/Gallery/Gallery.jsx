@@ -27,7 +27,7 @@ const Gallery = () => {
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}> FOLLOW OUR INSTAGRAM FOR MORE.</p>
-        <a href="https://www.instagram.com/byondbooks_1/">
+        <a href="https://www.instagram.com/skill_g__/">
         <button type="button" className="custom__button">View More</button> </a>
       </div>
       <div className="app__gallery-images">
