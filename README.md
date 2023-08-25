@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# resturant-demo
+# SKILL G OFFICAL PAGE 
 =======
 # Getting Started with Create React App
 
