@@ -19,24 +19,29 @@ const Card = ({ text }) => {
           
           
 
-	<h5 style={{ color: 'black', marginTop: '1rem' }}>
-
-    <input
-  list="browsers"
-  name="browser"
-  id="browser"
-  style={{  backgroundColor: 'white' , fontSize: '12px',
-    textAlign: 'center',}}
-  placeholder="Know More"
-/>
-<datalist id="browsers">
-  <option value="ROBOTICS"></option>
-  <option value="CODING"></option>
-  <option value="WEB DEVELOPMENT"></option>
-</datalist>
-
-
+	<h5 style={{ color: 'black', marginTop: '1rem', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+  <label htmlFor="browser" style={{ marginBottom: '0.5rem', fontSize: '14px' }}>Choose a Course:</label>
+  <input
+    list="browsers"
+    name="browser"
+    id="browser"
+    style={{
+      backgroundColor: 'white',
+      fontSize: '12px',
+      textAlign: 'center',
+      border: '1px solid #ccc', // Add a border for better visibility
+      borderRadius: '5px', // Add some border radius for a rounded look
+      padding: '10px', // Increase padding for better spacing
+    }}
+    placeholder="Know More"
+  />
+  <datalist id="browsers">
+    <option value="ROBOTICS"></option>
+    <option value="CODING"></option>
+    <option value="WEB DEVELOPMENT"></option>
+  </datalist>
 </h5>
+
 
           
           
