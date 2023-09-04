@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="app__navbar">
       <div className="app__navbar-logo">
         <h1 >Skill-G</h1>
-        <h6 style={{ color: 'white' }}>Oddessy of the new</h6>
+        <h6 style={{ color: 'white' }}>Odyssey of the genius</h6>
      
 
    

@@ -3,7 +3,7 @@ import React from 'react';
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Header.css';
-import imag from '../../assets/ai.jpg'; 
+import imag from '../../assets/skill-g.jpeg'; 
 
 const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
