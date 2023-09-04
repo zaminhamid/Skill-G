@@ -7,7 +7,7 @@
 
 .app__heade {
    
-    background-color: var(--color-black);
+    background-color: var(--color-black)!important;
     backdrop-filter: blur(16px) saturate(180%);
     opacity:0.9;
 
