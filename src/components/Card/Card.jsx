@@ -19,13 +19,13 @@ const Card = ({ text }) => {
           
           
 
-	<h4 style={{ color: 'black', marginTop: '1rem' }}>
+	<h5 style={{ color: 'black', marginTop: '1rem' }}>
 
     <input
   list="browsers"
   name="browser"
   id="browser"
-  style={{  backgroundColor: 'white' , fontSize: '18px',
+  style={{  backgroundColor: 'white' , fontSize: '12px',
     textAlign: 'center',}}
   placeholder="Know More"
 />
@@ -36,7 +36,7 @@ const Card = ({ text }) => {
 </datalist>
 
 
-</h4>
+</h5>
 
           
           
