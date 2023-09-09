@@ -1,4 +1,4 @@
-.app__header {
+/*.app__header {
     background-color: var(--color-black);
 }
 
@@ -48,4 +48,78 @@
          
     }
 }
+*/
+
+/* Header.css */
+.app__header {
+    background-color:white!important;
+    
+    
+  background-image: url('bg.jpg');  /* Specify the image file path */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+   background-size: cover;
+
+
+    display: flex; /* Use flex display to control layout */
+    align-items: center; /* Vertically center-align content */
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+.app__wrapper_info {
+    flex: 1; /* Grow to take available space */
+}
+
+.app__header-h1 {
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    font-size: 90px;
+    margin: 0;
+}
+
+.app__header-img img {
+    width: 40px;
+    height: 40px;
+}
+
+/* Add responsive font-size adjustments as you did in your CSS */
+@media screen and (min-width: 2000px) {
+    .app__header-h1 {
+        font-size: 180px;
+        line-height: 210px;
+    }
+}
+
+@media screen and (max-width: 1150px) {
+    .app__header-h1 {
+        font-size: 90px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .app__header-h1 {
+        font-size: 70px;
+        line-height: 87px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .app__header-h1 {
+        font-size: 50px;
+        line-height: 70px;
+    }
+}
+
 

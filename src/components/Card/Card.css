@@ -7,9 +7,16 @@
 
 .app__heade {
    
-    background-color: var(--color-black)!important;
-    backdrop-filter: blur(16px) saturate(180%);
-    opacity:0.9;
+   /* background-color: var(--color-black)!important; */
+      background-color:white!important;
+    
+    
+   
+     background-image: url('bcg.jpeg');/* Specify the image file path */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+   background-size: cover;
+
+  
 
 
 }
