@@ -17,8 +17,9 @@ const Footer = () => (
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
-        <p className="p__opensans">Atul02dubey07@gmail.com</p>
-         <p className="p__opensans">xaminhamid@gmail.com</p>
+        <p className="p__opensans">skillgtech@<span style={{ textTransform: 'lowercase' }}>gmail.com</span></p>
+
+        
         <p className="p__opensans">+91-8972247091</p>
        
         <p> </p>
@@ -27,7 +28,7 @@ const Footer = () => (
       <div className="app__footer-links_logo">
       <p> </p>
         <p className="p__opensans">&quot;Our Vision: Bridging the Gap between Online and Offline Learning"</p>
-        <p className="p__opensans">&quot; Click Above to Register for online classes "</p>
+        <p className="p__opensans">&quot; Click Above To Register for online classes "</p>
         
         
         <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} />

@@ -12,9 +12,9 @@ const Card = ({ text }) => {
         <SubHeading title="Courses We Provide  " />
         <h6 className="app__heade-h1"></h6>
         <p className="p__xam" style={{ margin: '2rem 0' }}>
-          <h1 style={{  marginTop: '1rem' }}>Curated courses </h1>
-          <h2 style={{  marginTop: '1rem' }}>Embark on an Uncharted Learning Adventure: </h2>
-          <h4 style={{ color: 'black', marginTop: '1rem' }}>Explore our meticulously crafted courses that break free from textbooks, guiding students through a dynamic journey into the heart of modern technologies. With hands-on projects and immersive checkpoints, young minds discover and enjoy a world beyond traditional learning, equipping them with skills that shape tomorrow. </h4>
+          <h2 style={{  marginTop: '1rem',fontFamily: 'Roboto, sans-serif' }}>Curated courses </h2>
+          <h3 style={{  marginTop: '1rem',fontFamily: 'Roboto, sans-serif' }}>Embark on an Uncharted Learning Adventure: </h3>
+          <h4 style={{ color: 'black', marginTop: '1rem',fontFamily: 'Roboto, sans-serif' }}>Explore our meticulously crafted courses that break free from textbooks, guiding students through a dynamic journey into the heart of modern technologies. With hands-on projects and immersive checkpoints, young minds discover and enjoy a world beyond traditional learning, equipping them with skills that shape tomorrow. </h4>
          
           
           
