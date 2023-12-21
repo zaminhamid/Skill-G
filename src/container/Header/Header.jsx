@@ -17,6 +17,12 @@ const Header = () => (
   <h1 style={{ marginTop: '1rem', color: 'white', fontSize: '28px' }}>
     From Components to Creations: The Robotic Odyssey 🌠 
   </h1>
+  
+   <p style={{ color: 'white', fontSize: '18px', lineHeight: '1.5', marginTop:'1rem' }}>
+           WELCOME
+    
+    </p>
+  
   <p style={{ color: 'white', fontSize: '18px', lineHeight: '1.5', marginTop:'1rem' }}>
     Welcome to the world of robotics and innovation! At RoboTech Academy, we are
     passionate about igniting the spark of creativity and curiosity in young
