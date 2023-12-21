@@ -26,12 +26,12 @@ const Header = () => (
     minds. Our mission is to empower individuals to explore the limitless
     possibilities of robotics and technology.
   </p>
-  <p style={{ color: 'white', fontSize: '18px', lineHeight: '1.5' ,marginTop:'2rem}}>
+  <p style={{ color: 'white', fontSize: '18px', lineHeight: '1.5' ,marginTop:'2rem'}}>
     Whether you're a beginner or an experienced enthusiast, we offer a wide
     range of online and offline robotic courses designed to cater to all
     skill levels. Dive into the exciting world of coding, electronics,
-    mechanical engineering, and more!
-  </p>
+    mechanical engineering, and more! </p>
+    
   <p style={{ color: 'white', fontSize: '18px', lineHeight: '1.5',marginTop:'2rem' }}>
     Our state-of-the-art robotic kits are carefully curated to provide you with
     everything you need to build and program your robots. Get ready to bring
