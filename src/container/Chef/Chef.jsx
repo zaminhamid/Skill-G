@@ -7,9 +7,9 @@ import './Chef.css';
 
 const Chef = () => (
   <div className="app__bg app__wrapper section__padding">
-    <div className="app__wrapper_img app__wrapper_img-reverse">
+   {/* <div className="app__wrapper_img app__wrapper_img-reverse">
      
-    </div>
+    </div>*/}
     <div className="app__wrapper_info">
       <SubHeading title="Message From The Team" />
       <h1 className="headtext__cormorant">What we believe in</h1>

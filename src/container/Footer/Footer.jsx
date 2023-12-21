@@ -18,14 +18,18 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Atul02dubey07@gmail.com</p>
+         <p className="p__opensans">xaminhamid@gmail.com</p>
         <p className="p__opensans">+91-8972247091</p>
-        <p className="p__opensans">xaminhamid@gmail.com</p>
+       
         <p> </p>
       </div>
 
       <div className="app__footer-links_logo">
       <p> </p>
         <p className="p__opensans">&quot;Our Vision: Bridging the Gap between Online and Offline Learning"</p>
+        <p className="p__opensans">&quot; Click Above to Register for online classes "</p>
+        
+        
         <img src={images.spoon} className="spoon__img" style={{ marginTop: 15 }} />
         
         <div className="app__footer-links_icons">

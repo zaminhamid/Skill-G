@@ -19,7 +19,7 @@ const Header = () => (
   </h1>
   
    <p style={{ color: 'white', fontSize: '18px', lineHeight: '1.5', marginTop:'1rem' }}>
-            Nigga welcome 
+            
     
     </p>
   
