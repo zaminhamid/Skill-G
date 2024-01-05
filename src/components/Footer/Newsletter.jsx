@@ -1,4 +1,4 @@
-import React from 'react';
+{/*import React from 'react';
 
 import SubHeading from '../SubHeading/SubHeading';
 import './Newsletter.css';
@@ -8,4 +8,4 @@ const Newsletter = () => (
   </div>
 ); 
 
-export default Newsletter;
+export default Newsletter;*/}
