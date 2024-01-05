@@ -4,6 +4,14 @@ import { MdOutlineRestaurantMenu } from 'react-icons/md';
 import images from '../../constants/images';
 import imagz from '../../assets/text.png'; 
 import './Navbar.css';
+// Import the ContactUs component or content
+
+
+// ...
+
+// Inside your JSX, create a link to the ContactUs section
+{/*<li><a href="#contactus" onClick={() => setToggleMenu(false)}><ContactUs /></a></li>*/}
+
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = React.useState(false);
@@ -19,13 +27,13 @@ const Navbar = () => {
       </div>
       
       <ul className="app__navbar-links">
-        <li className="p__opensans"><a href="#home">Home</a></li>
+      {/*  <li className="p__opensans"><a href="#home">Home</a></li>
         <li className="p__opensans"><a href="#about">About</a></li>
-        <li className="p__opensans"><a href="#menu">Menu</a></li>
+       
          
         
         
-        <li className="p__opensans"><a href="#contact">Contact</a></li>
+        <li className="p__opensans"><a href="#FooterOverlay">Contact</a></li>*/}
       </ul>
       <div className="app__navbar-login">
       	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdrriLkDl3-v-nAuY6x_pBZGFgvQ28KTEAn8DCSu9Z2bXdFkg/viewform?usp=sf_link" className="p__opensans">Log In / Registration</a>
@@ -41,10 +49,10 @@ const Navbar = () => {
             <ul className="app__navbar-smallscreen_links">
               <li><a href="#home" onClick={() => setToggleMenu(false)}>Home</a></li>
               <li><a href="#about" onClick={() => setToggleMenu(false)}>About</a></li>
-              <li><a href="#menu" onClick={() => setToggleMenu(false)}>Menu</a></li>
+             
               <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdrriLkDl3-v-nAuY6x_pBZGFgvQ28KTEAn8DCSu9Z2bXdFkg/viewform?usp=sf_link" onClick={() => setToggleMenu(false)}>Register</a></li>
           
-              <li><a href="#contact" onClick={() => setToggleMenu(false)}>Contact</a></li>
+              {/*<li><a href="#Footer" onClick={() => setToggleMenu(false)}>Contact</a></li>*/}
             </ul>
           </div>
         )}
