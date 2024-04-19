@@ -4,19 +4,27 @@ import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Header.css';
 import imag from '../../assets/skill.png'; 
-
+import skill from '../../assets/skill.png'; 
 const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
       <SubHeading title="Beyond Books  " />
+       
       <h6 className="app__header-h1"></h6>
+       <img src={skill} alt="logo" style={{ float: 'right', width: '20%', maxWidth: '150px', height: 'auto', marginLeft: '70vw' }} />
       
       
       
       <p className="p__opensans" style={{ margin: '2rem 0' }}>
   <h1 style={{ marginTop: '1rem', color: 'white', fontSize: '28px' }}>
+  
     From Components to Creations: The Robotic Odyssey 🌠 
   </h1>
+  
+  
+  
+
+
   
    <p> </p>
   
